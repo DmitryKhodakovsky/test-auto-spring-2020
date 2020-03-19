@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Multiply suite">
+
+    <test name="Multiply test">
+        <classes>
+            <class name="lesson01.CalculatorMultiplyTest"></class>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sum suite">
+
+    <test name="Sum test">
+        <classes>
+            <class name="lesson01.CalculatorSumTest"></class>
+        </classes>
+    </test>
+
+</suite>
