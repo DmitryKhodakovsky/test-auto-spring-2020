@@ -1,0 +1,73 @@
+package lesson02;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+import java.io.File;
+import java.io.IOException;
+import java.util.concurrent.TimeUnit;
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
+
+import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.assertTrue;
+
+public class JavaScriptScreenshotExecutorSeleniumTest {
+
+    private WebDriver driver;
+
+
+    @BeforeMethod
+    public void setUp() {
+        WebDriverManager.chromedriver().setup();
+        driver = new ChromeDriver();
+        driver.manage().timeouts().implicitlyWait(10000, TimeUnit.MILLISECONDS);
+    }
+
+    @Test
+    public void userBugRedLoginTest() {
+        driver.get("http://users.bugred.ru/");
+
+//        driver.findElement(By.xpath("//a//span[text()='Войти']")).click();
+        WebElement loginButton = driver.findElement(By.xpath("//a//span[text()='Войти']"));
+        loginButton.click();
+
+        driver.findElement(By.name("login")).sendKeys("test.user@email.com");
+        driver.findElement(By.xpath("//form[contains(@action, 'login')]//input[@name='password']")).sendKeys("test");
+        driver.findElement(By.xpath("//input[@value='Авторизоваться']")).click();
+
+        WebElement userButton = driver.findElement(By.cssSelector(".dropdown-toggle"));
+        assertTrue(userButton.isDisplayed(), "Кнопка пользователя не отображается");
+        assertEquals(userButton.getText(), "test user");
+
+//        userButton.click();
+
+        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", userButton);
+
+        WebElement logoutButton = driver.findElement(By.linkText("Выход"));
+        logoutButton.click();
+
+        TakesScreenshot sc = (TakesScreenshot)driver;
+        File screensFile = sc.getScreenshotAs(OutputType.FILE);
+        try {
+            FileUtils.copyFile(screensFile, new File("screensFilePath.png"));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+//        assertThat("Кнопка войти не отбражается", driver.findElement(By.xpath("//a//span[text()='Войти']")).isDisplayed());
+        assertTrue(driver.findElement(By.xpath("//a//span[text()='Войти']")).isDisplayed(), "Кнопка войти не отбражается");
+    }
+
+    @AfterMethod
+    public void tearDown() {
+        driver.quit();
+    }
+}

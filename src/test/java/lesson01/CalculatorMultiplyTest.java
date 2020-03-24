@@ -15,7 +15,7 @@ public class CalculatorMultiplyTest {
 
     @BeforeClass
     public void setUpClass() {
-        System.out.println("Before Class");
+        System.out.println("Before Class CalculatorMultiplyTest");
     }
 
     @BeforeMethod
