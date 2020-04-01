@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Strategy Design Pattern suite">
+
+    <test name="Tax calculator">
+        <classes>
+            <class name="lesson04.dp.strategy.RussianTaxCalculatorTest"/>
+            <class name="lesson04.dp.strategy.UnitedStatesTaxCalculator"/>
+        </classes>
+    </test>
+
+</suite>
