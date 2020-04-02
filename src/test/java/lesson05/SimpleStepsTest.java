@@ -1,9 +1,7 @@
 package lesson05;
 
-import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-@Listeners({AllureScreenshotListener.class})
 public class SimpleStepsTest extends AbstractBaseTest {
 
     @Test
@@ -18,5 +16,12 @@ public class SimpleStepsTest extends AbstractBaseTest {
         steps.open("http://users.bugred.ru/");
         steps.loginAs("test.user@email.com", "test1231");
         steps.usernameShouldBe("test user");
+    }
+
+    @Test
+    public void userBugRedLoginFailedTest() {
+        steps.open("http://users.bugred.ru/");
+        steps.loginAs("test.user@email.com", "test");
+        steps.usernameShouldBe("test user12132312");
     }
 }
