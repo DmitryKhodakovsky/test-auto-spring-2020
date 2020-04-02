@@ -3,10 +3,12 @@ package lesson05;
 import lesson03.voids.po.UserBugRedIndexPage;
 import lesson03.voids.po.UserBugRedLoginPage;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
 
+@Listeners({AllureScreenshotListener.class})
 public class SimplePageObject extends AbstractBaseTest {
 
     @Test

@@ -7,4 +7,10 @@
         </classes>
     </test>
 
+    <test name="Simple test steps">
+        <classes>
+            <class name="lesson05.SimpleStepsTest"/>
+        </classes>
+    </test>
+
 </suite>
