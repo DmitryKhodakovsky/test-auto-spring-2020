@@ -43,6 +43,16 @@
                 <suite.xml>src/test/resources/lesson01/MultiplyTestSuite.xml</suite.xml>
             </properties>
         </profile>
+
+        <profile>
+            <id>jenkins</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+                <suite.xml>src/test/resources/lesson05/JenkinsSuite.xml</suite.xml>
+            </properties>
+        </profile>
     </profiles>
 
     <dependencies>

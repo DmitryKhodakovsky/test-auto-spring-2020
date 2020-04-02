@@ -20,7 +20,7 @@ public class YandexResultPage extends AbstractPage {
     }
 
     public String getFirstItemText() {
-        return results.get(0).getText();
+        return getText(results.get(0));
     }
 
 
