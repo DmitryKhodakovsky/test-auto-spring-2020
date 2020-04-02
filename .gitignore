@@ -3,3 +3,6 @@
 **/*.iml
 **/*.png
 **/.DS_Store
+**/allure-results
+**/.allure
+**/allure-report
