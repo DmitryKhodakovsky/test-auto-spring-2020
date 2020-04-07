@@ -1,0 +1,24 @@
+package lesson06;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public abstract class AbstractPage {
+
+    protected WebDriver driver;
+
+    protected AbstractPage(WebDriver driver) {
+        this.driver = driver;
+        PageFactory.initElements(driver, this);
+    }
+
+    protected String getText(final WebElement element) {
+        String text = "";
+        text = new WebDriverWait(driver, 5)
+                .until(ExpectedConditions.visibilityOf(element)).getText();
+        return text;
+    }
+}
