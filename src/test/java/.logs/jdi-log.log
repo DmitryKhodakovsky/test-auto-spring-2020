@@ -1,0 +1,305 @@
+39:20.393 [JDI:STEP]: Open 'Jdi Home Page'(url=https://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+39:24.323 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:24.418 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:24.420 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:24.420 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:24.860 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:24.884 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:24.885 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:24.886 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:25.300 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:25.319 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:25.320 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:25.320 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:25.740 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:25.763 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:25.764 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:25.765 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:26.181 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:26.204 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:26.205 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:26.205 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:26.675 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:26.694 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:26.695 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:26.695 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:27.127 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:27.152 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:27.154 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:27.154 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:27.601 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:27.622 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:27.623 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:27.624 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:28.117 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:28.139 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:28.140 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:28.140 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:28.559 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:28.576 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:28.577 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:28.577 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:28.997 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:29.20 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:29.21 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:29.21 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:29.442 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:29.457 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:29.458 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:29.458 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:29.874 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:29.889 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:29.890 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:29.890 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:30.298 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+39:30.314 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:30.315 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+39:30.315 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+39:30.523 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=https://jdi-testing.github.io/jdi-light/index.html; title=)
+40:51.150 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+40:51.425 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+40:51.436 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+40:51.437 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+40:51.903 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+40:51.924 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+40:51.925 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+40:51.925 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:28.585 [JDI:STEP]: Open 'Jdi Home Page'(url=https://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+41:29.01 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:29.27 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:29.29 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:29.30 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:29.490 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:29.516 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:29.517 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:29.517 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:29.939 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:29.961 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:29.963 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:29.963 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:30.409 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:30.432 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:30.434 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:30.434 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:30.878 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:30.897 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:30.899 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:30.899 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:31.323 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:31.338 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:31.339 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:31.339 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:31.740 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:31.755 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:31.756 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:31.757 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:32.148 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:32.166 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:32.167 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:32.167 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:32.528 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:32.540 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:32.542 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:32.543 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:32.951 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:32.973 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:32.973 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:32.975 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:33.434 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:33.455 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:33.456 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:33.456 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:33.879 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:33.901 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:33.903 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:33.903 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:34.328 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:34.342 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:34.344 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:34.344 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:34.750 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:34.767 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:34.769 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:34.769 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:35.150 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:35.168 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:35.169 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:35.169 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:35.566 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:35.585 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:35.585 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:35.585 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:35.983 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:36.00 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:36.17 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:36.18 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:36.397 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:36.407 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:36.408 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:36.408 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:36.779 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:36.794 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:36.795 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:36.795 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:37.155 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:37.171 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:37.172 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:37.173 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:37.596 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:37.613 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:37.614 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:37.614 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:38.22 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:38.42 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:38.43 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:38.44 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:38.461 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+41:38.476 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:38.477 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+41:38.477 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+41:38.684 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=https://jdi-testing.github.io/jdi-light/index.html; title=)
+42:11.63 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+42:11.84 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+42:11.85 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+42:11.85 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+42:19.909 [JDI:STEP]: Open 'Jdi Home Page'(url=https://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+45:20.753 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+45:24.851 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:24.945 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:24.948 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:24.948 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:25.482 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:25.505 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:25.506 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:25.507 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:25.975 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:25.998 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:25.998 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:25.999 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:26.426 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:26.440 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:26.441 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:26.441 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:26.882 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:26.899 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:26.900 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:26.900 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:27.365 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:27.383 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:27.383 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:27.384 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:27.843 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:27.859 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:27.860 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:27.861 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:28.340 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:28.362 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:28.364 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:28.367 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:28.848 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:28.868 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:28.869 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:28.869 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:29.343 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:29.365 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:29.366 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:29.368 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:29.810 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:29.829 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:29.830 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:29.831 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:30.269 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:30.292 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:30.294 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:30.294 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:30.735 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+45:30.755 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:30.757 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+45:30.757 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+45:30.968 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)
+53:07.749 [JDI:STEP]: Open 'Jdi Home Page'(url=http://jdi-testing.github.io/jdi-light/index.html) (Jdi Home Page)
+53:10.300 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:10.345 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:10.346 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:10.346 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:10.708 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:10.725 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:10.726 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:10.726 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:11.84 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:11.100 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:11.101 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:11.101 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:11.483 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:11.502 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:11.503 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:11.504 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:11.874 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:11.890 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:11.891 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:11.891 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:12.266 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:12.280 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:12.281 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:12.281 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:12.637 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:12.652 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:12.652 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:12.653 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:13.07 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:13.18 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:13.19 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:13.19 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:13.370 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:13.382 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:13.382 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:13.382 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:13.743 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:13.753 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:13.754 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:13.754 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:14.110 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:14.123 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:14.124 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:14.124 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:14.479 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:14.491 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:14.492 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:14.492 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:14.855 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:14.870 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:14.871 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:14.871 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:15.227 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:15.240 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:15.241 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:15.241 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:15.606 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:15.619 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:15.620 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:15.620 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:15.983 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:15.996 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:15.996 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:15.996 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:16.321 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:16.335 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:16.336 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:16.337 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:16.710 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:16.726 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:16.727 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:16.727 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:17.86 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:17.102 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:17.103 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:17.103 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:17.457 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:17.469 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:17.470 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:17.470 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:17.842 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+53:17.853 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:17.854 [JDI:INFO]: Download driver: 'CHROME X32' successfully
+53:17.854 [JDI:INFO]: Use driver path: C:\Users\dmitry_lebedev1\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+53:18.61 [JDI:ERROR]: >>> JdiSite.jdiHomePage (url=http://jdi-testing.github.io/jdi-light/index.html; title=)

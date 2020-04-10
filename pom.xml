@@ -10,6 +10,7 @@
     <packaging>jar</packaging>
 
     <properties>
+        <driver>chrome</driver>
         <java.source.version>1.8</java.source.version>
         <java.target.version>1.8</java.target.version>
 
@@ -20,7 +21,7 @@
         <common-io.version>2.6</common-io.version>
         <allure.version>2.13.2</allure.version>
         <aspectj.version>1.8.10</aspectj.version>
-        <cucumber.version>5.6.0 </cucumber.version>
+        <cucumber.version>5.6.0</cucumber.version>
 
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
@@ -61,6 +62,24 @@
 
     <dependencies>
         <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>22.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.epam.jdi</groupId>
+            <artifactId>jdi-light-html</artifactId>
+            <version>1.1.18</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-annotations</artifactId>
+            <version>2.9.9</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>${testng.version}</version>
@@ -73,11 +92,11 @@
             <version>${selenium.version}</version>
         </dependency>
 
-        <dependency>
-            <groupId>io.github.bonigarcia</groupId>
-            <artifactId>webdrivermanager</artifactId>
-            <version>${webdrivermanager.version}</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>io.github.bonigarcia</groupId>-->
+        <!--            <artifactId>webdrivermanager</artifactId>-->
+        <!--            <version>${webdrivermanager.version}</version>-->
+        <!--        </dependency>-->
 
         <dependency>
             <groupId>commons-io</groupId>
@@ -141,9 +160,9 @@
                     <suiteXmlFiles>
                         <xmlFile>${suite.xml}</xmlFile>
                     </suiteXmlFiles>
-                        <argLine>
-                            -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
-                        </argLine>
+                    <argLine>
+                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
+                    </argLine>
                 </configuration>
                 <dependencies>
                     <dependency>
@@ -164,6 +183,15 @@
                 </configuration>
             </plugin>
         </plugins>
+        <resources>
+            <resource>
+                <directory>${project.basedir}/src/main/resources</directory>
+            </resource>
+            <resource>
+                <directory>src/test/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
     </build>
 
 </project>
