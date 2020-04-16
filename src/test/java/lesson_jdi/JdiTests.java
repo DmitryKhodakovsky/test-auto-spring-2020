@@ -1,5 +1,6 @@
 package lesson_jdi;
 
+import lesson_jdi.entities.User;
 import org.testng.Assert;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
@@ -8,6 +9,7 @@ import org.testng.annotations.Test;
 import static com.epam.jdi.light.driver.WebDriverUtils.killAllSeleniumDrivers;
 import static com.epam.jdi.light.elements.init.PageFactory.initElements;
 import static java.lang.String.format;
+import static lesson_jdi.entities.User.*;
 
 public class JdiTests {
 
@@ -30,5 +32,12 @@ public class JdiTests {
 
         Assert.assertEquals(actualBenefitsCount, EXPECTED_B_C,
                 format("Actual Benefits count: %s but expected: %s", actualBenefitsCount, EXPECTED_B_C));
+    }
+
+    @Test
+    public void jdiLoginTest() {
+        JdiSite.open();
+        JdiSite.jdiHomePage.login(ROMAN);
+        JdiSite.jdiHomePage.userName.is().text(ROMAN.getFullName());
     }
 }

@@ -10,6 +10,7 @@
     <packaging>jar</packaging>
 
     <properties>
+        <domain>https://jdi-testing.github.io/jdi-light/</domain>
         <driver>chrome</driver>
         <java.source.version>1.8</java.source.version>
         <java.target.version>1.8</java.target.version>
@@ -29,6 +30,23 @@
     </properties>
 
     <profiles>
+
+        <profile>
+            <id>smoke</id>
+            <properties>
+                <domain>http://www.qwe.com</domain>
+                <driver>firefox</driver>
+            </properties>
+        </profile>
+
+        <profile>
+            <id>regression</id>
+            <properties>
+                <domain>http://www.asd.com</domain>
+                <driver>IE</driver>
+            </properties>
+        </profile>
+
         <profile>
             <id>sum</id>
             <activation>
@@ -61,6 +79,13 @@
     </profiles>
 
     <dependencies>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.12</version>
+        </dependency>
+
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
@@ -183,15 +208,20 @@
                 </configuration>
             </plugin>
         </plugins>
-        <resources>
-            <resource>
-                <directory>${project.basedir}/src/main/resources</directory>
-            </resource>
-            <resource>
+        <testResources>
+            <testResource>
                 <directory>src/test/resources</directory>
                 <filtering>true</filtering>
-            </resource>
-        </resources>
+            </testResource>
+        </testResources>
+        <!--        <resources>-->
+        <!--            <resource>-->
+        <!--                <directory>${project.basedir}/src/main/resources</directory>-->
+        <!--            </resource>-->
+        <!--            <resource>-->
+        <!--                <directory>src/test/resources</directory>-->
+        <!--                <filtering>true</filtering>-->
+        <!--            </resource>-->
+        <!--        </resources>-->
     </build>
-
 </project>
